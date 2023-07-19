@@ -16,7 +16,6 @@ export const review = async (yargs: ReviewArgs) => {
 
   const fileNames = await getFileNames(isCi);
   const prompts = await constructPromptsArray(fileNames);
-
   const response = await askAI(prompts, modelName);
 
   if (isCi) {

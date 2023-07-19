@@ -10,6 +10,7 @@
   "scripts": {
     "start": "ts-node ./src/index.ts review",
     "start-ci": "ts-node ./src/index.ts review --ci",
+    "test": "ts-node ./src/index.ts test",
     "build": "node utils/build.js",
     "postbuild": "node utils/shebang.js && chmod +x ./dist/index.js"
   },
