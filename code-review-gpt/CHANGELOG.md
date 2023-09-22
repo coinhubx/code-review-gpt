@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.0.0 (2023-09-22)
+
+
+### Features
+
+* move package ([#263](https://github.com/coinhubx/code-review-gpt/issues/263)) ([254bd29](https://github.com/coinhubx/code-review-gpt/commit/254bd29e2adaa047f47049952b960f52943cef32))
+
+
+### Bug Fixes
+
+* fixing eslint config ([d7c9937](https://github.com/coinhubx/code-review-gpt/commit/d7c9937c1e062aa3416e35372b392da118ec2393))
+* fixing linting errors ([53342d8](https://github.com/coinhubx/code-review-gpt/commit/53342d83b157796474dfd577a5e867c5b1ee41a7))
+
 ## [0.1.0](https://github.com/mattzcarey/code-review-gpt/compare/v0.0.34...v0.1.0) (2023-08-16)
 
 ### Features
